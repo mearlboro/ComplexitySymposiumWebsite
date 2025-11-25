@@ -1,0 +1,336 @@
+@font-face {
+  font-family: "ProximaNova";
+  src:
+    url("/assets/fonts/ProximaNova.otf")   format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "ProximaNova";
+  src:
+    url("/assets/fonts/ProximaNovaBold.otf")   format("opentype");
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Recoleta";
+  src:
+    url("/assets/fonts/Recoleta.otf")   format("opentype");
+}
+@font-face {
+  font-family: "Recoleta";
+  src:
+    url("/assets/fonts/RecoletaBlack.otf")   format("opentype");
+  font-weight: 800;
+  font-style: normal;
+}
+
+
+ /* Layout
+ * ----------------------------------------------
+ */
+
+/* reset body */
+body {
+  margin: 0;
+}
+
+/* layout wrappers and containers */
+.container {
+  position: relative;
+}
+.container > img {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.overlay {
+  height: calc(100% / 2.4 - 14vw);
+  width: 100%;
+  z-index: 5;
+  position: absolute;
+  top: 14vw;
+}
+
+.wrapper {
+  display: block;
+  margin: 0 auto;
+  max-width: 1000px;
+  padding: 40px;
+}
+
+.row {
+  padding: 10px 30px;
+  display: block;
+}
+
+.clearfix {
+  clear: both;
+  display: block !important;
+  margin: 0 auto !important;
+}
+
+
+/* alignment */
+.center {
+  display: block !important;
+  margin: 0 auto !important;
+}
+.text-center, .text-center * {
+  text-align: center !important;
+}
+
+.left {
+  float: left;
+  text-align: left;
+}
+.right {
+  float: right;
+  text-align: right;
+}
+
+img { padding: 5px 10px; }
+
+/* basic column layouts */
+.col-1-of-2, .col-1-of-3, .col-2-of-3 {
+  display: inline-block;
+  padding-right: 20px;
+  box-sizing: border-box;
+  margin: 0;
+  vertical-align: top;
+  margin-bottom: 30px;
+}
+@media screen and (max-width: 599px) {
+  .col-1-of-2, .col-1-of-3, .col-2-of-3 {
+    width: 100%;
+  }
+}
+@media screen and (min-width: 600px) {
+  .col-1-of-2 {
+    width: 49%;
+  }
+  .col-1-of-3 {
+    width: 32%;
+  }
+  .col-2-of-3 {
+    width: 65%;
+  }
+}
+
+.col-1-of-2 img, .col-1-of-3 img, .col-2-of-3 img {
+  width: 85%;
+}
+
+footer img {
+   max-width: 180px;
+}
+
+div.olMap {
+  height: 460px;
+}
+.olControlAttribution {
+  bottom: 0.5em !important;
+  right: 1em !important; 
+}
+
+/* Mobile hide/show elements
+ * ----------------------------------------------
+*/
+@media screen and (max-width: 599px) {
+   .hide-sm { display: none; }
+   .hide-lg { display: block; }
+}
+
+@media screen and (min-width: 600px) {
+   .hide-sm { display: block; }
+   .hide-lg { display: none; }
+}
+
+
+/* Menu
+ * ----------------------------------------------
+*/
+header{
+  z-index: 10;
+  width: 100%;
+  position: relative;
+}
+
+#logo a h1 {
+  color: #000 !important;
+  text-decoration: none;
+  font-size: 22px;
+  margin-bottom: 10px !important;
+}
+
+.main-menu {
+  z-index: 10;
+  line-height: 44px;
+}
+
+@media screen and (max-width: 600px) {
+  .site-nav {
+    border-radius: 0px;
+   }
+  .site-nav .page-link {
+    margin-left: 0;
+  }
+}
+
+
+/* Typography
+ * ----------------------------------------------
+ */
+ 
+h5, h6, p, span, a, ul, ol, li, pre, code, table, tr, td, th {
+  font-family: 'Recoleta', serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'ProximaNova';
+  display: table;
+  text-align: center;
+  margin: 5px auto;
+  font-weight: 600;
+}
+h1, h1 a, h2, h2 a {
+  letter-spacing: 1px;
+  font-weight: 800;
+  margin: 10px auto 50px auto;
+}
+h1, h1 a { font-size: 48px; }
+h2, h2 a { font-size: 36px; }
+h3, h3 a { font-size: 28px; }
+
+
+.page-title h1 {
+  text-transform: uppercase;
+  letter-spacing: 3px;
+ }
+
+.overlay h1 { font-family: Recoleta; }
+
+
+p {
+  text-align: justify;
+  word-spacing: 3px;
+}
+
+a, p a, li a {
+  font-family: 'Recoleta';
+  word-spacing: 2px;
+}
+
+.main-menu a {
+  font-family: 'ProximaNova';
+  font-weight: 800;
+  line-height: 25px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 13px;
+  letter-spacing: 1px;
+}
+
+strong, b {
+  font-family: 'Recoleta';
+  font-weight: 800;
+  word-spacing: 2px;
+}
+
+em {
+  font-family: 'Recoleta';
+  font-style: normal;
+  word-spacing: 2px;
+}
+
+blockquote {
+    border-left: 4px solid #e8e8e8;
+    padding-left: 15px;
+    font-size: 13px;
+    letter-spacing: 0;
+    font-style: italic;
+}
+
+.la {
+  font-size: 60px;
+}
+
+.button * {
+  letter-spacing: 2px;
+  font-family: ProximaNova;
+  font-weight: bold;
+}
+.button a:hover {
+  text-decoration: none;
+}
+
+
+
+/* Colours
+ * ----------------------------------------------
+ */
+
+h1, h1 a, h2, h2 a, h3, h3 a, h4, h4 a, h5, h5 a, h6, h6 a {  color: #000; }
+p, li, span { color: #111; }
+p a, p a:link, p a:active, p a:hover, p a:visited { color: #00dfcf !important; }
+
+.overlay h1, .overlay h3 {
+  text-shadow: 3px 3px 0 #000;
+  color: #fff;
+}
+.button:hover {  background-color: #00dfcf; }
+
+.blue-bg  { background-color: #006699; }
+.aqua-bg  { background-color: #00dfcf; }
+.grey-bg  { background-color: #666; }
+.white-bg { background-color: #fff; }
+.black-bg { background-color: #222; }
+
+
+.grey,  .grey  * { color: #999   ; }
+.black, .black * { color: #021009; }
+.blue,  .blue  * { color: #1177aa; }
+.aqua,  .aqua  * { color: #00cfdf; }
+.white, .white * { color: #fff   ; }
+
+header a, header a:link, header a:active, header a:hover, header a:visited,
+footer a, footer a:link, footer a:active, footer a:hover, footer a:visited,
+em { color: #1177aa !important; }
+
+footer a:hover, p a:hover, li a:hover, li span:hover, nav a:hover {
+  text-decoration: none;
+  background-color: rgba(127,127,127,0.3);
+}
+
+.la {
+  font-size: 60px;
+  color: #1166aa !important;
+}
+
+
+/* Images
+ * ----------------------------------------------
+ */
+
+.circle img {
+    border-radius: 50%;
+    margin: 0 auto;
+    max-width: 300px;
+    max-height: 300px;
+    width: 100%;
+    height: 100%;
+    display: block;
+    filter: grayscale(100%);
+    transition: filter 0.4s linear;
+}
+.circle img:hover {
+   filter: grayscale(0);
+}
+
+.post-summary img {
+    width: 85%;
+    border-radius: 20px;
+}

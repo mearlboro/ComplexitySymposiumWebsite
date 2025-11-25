@@ -1,0 +1,37 @@
+<div class="blue-bg">&nbsp;</div>
+
+<footer class="text-center">
+  <data href="{{ "/" | relative_url }}"></data>
+
+  <div class="black">
+    <div class="wrapper">
+      <div class="col-1-of-3">
+        <h4>LEARN MORE</h4>
+        <a href="https://www.imperial.ac.uk/complexity-science/">Centre for Complexity Science</a><br/>
+        <img src="/assets/img/complexity.jpg" style="width:140px !important">
+      </div>
+
+      <div class="col-1-of-3">
+        <h4>NAVIGATION</h4>
+        {% for page in site.pages %}
+          {% if page.menu %}
+          <a href="{{ page.permalink }}">{{ page.menu }}</a><br/>
+          {% endif %}
+        {% endfor %}
+      </div>
+
+      <div class="col-1-of-3">
+        <h4>SYMPOSIUM INFORMATION</h4>
+        <p>
+        {{ site.date }},<br/>
+        {{ site.times }} <br/>
+        {{ site.address }}<br/>
+        [imperial.ac.uk](https://www.imperial.ac.uk/)
+        </p>
+        
+		<p>&nbsp;</p>
+      </div>
+    </div>
+  </div>
+
+</footer>
