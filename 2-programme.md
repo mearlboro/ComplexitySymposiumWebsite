@@ -36,7 +36,7 @@ The *programme at a glance* is outlined below. Scroll down or click the session 
 <div class="wrapper text-center" markdown=1>
 
 ### Session *1*. *N*etworks *&* *B*asic Formalism
-Chair: Dr Tim Evans
+Chaired by [Dr Tim Evans](https://profiles.imperial.ac.uk/t.evans){:target="_blank"}
 
 | time  | room | title   | speaker | affiliation | 
 |-------|------|---------|---------|-------------|
@@ -50,7 +50,7 @@ Chair: Dr Tim Evans
 
 
 ### Session *2*. *M*edical *A*pplications
-Chair: Prof Kim Christensen
+Chaired by [Prof Kim Christensen](https://profiles.imperial.ac.uk/k.christensen){:target="_blank"}
 
 | time  | room | title   | speaker | affiliation | 
 |-------|------|---------|---------|-------------|
@@ -62,7 +62,7 @@ Chair: Prof Kim Christensen
 
 
 ### Session *3*: *S*ociety, *E*conomics *&* *B*iological systems
-Chair: Dr Eduardo Viegas
+Chaired by [Dr Eduardo Viegas](https://profiles.imperial.ac.uk/e.viegas11){:target="_blank"}
 
 | time  | room | title   | speaker | affiliation | 
 |-------|------|---------|---------|-------------|
@@ -76,7 +76,7 @@ Chair: Dr Eduardo Viegas
 
 
 ### Session *4*: *N*euroscience & *M*usic
-Chair: Prof Henrik Jeldtoft Jensen
+Chaired by [Prof Henrik Jeldtoft Jensen](https://www.ma.ic.ac.uk/~hjjens/){:target="_blank"}
 
 | time  | room | title   | speaker | affiliation | 
 |-------|------|---------|---------|-------------|

@@ -40,25 +40,25 @@ Followed by a birthday reception in the Physics Common Room.
 <div class="col-1-of-2 text-center" markdown="1">
 <span class="la la-network-wired"></span>
 ### *N*etworks *&* <br/> *B*asic Formalism
-Chaired by [Dr Tim Evans](https://profiles.imperial.ac.uk/t.evans)
- </div>
+Chaired by [Dr Tim Evans](https://profiles.imperial.ac.uk/t.evans){:target="_blank"}
+</div>
 
 <div class="col-1-of-2 text-center" markdown="1">
 <span class="la la-file-medical-alt"></span>
 ### *M*edical <br/> *A*pplications
-Chaired by [Prof Kim Christensen](https://profiles.imperial.ac.uk/k.christensen)
+Chaired by [Prof Kim Christensen](https://profiles.imperial.ac.uk/k.christensen){:target="_blank"}
 </div>
 
 <div class="col-1-of-2 text-center" markdown="1">
 <span class="la la-chart-area"></span>
 ### *S*ociety, *E*conomics *&*  <br/> *B*iological Systems
-Chaired by [Dr Eduardo Viegas](https://profiles.imperial.ac.uk/e.viegas11)
+Chaired by [Dr Eduardo Viegas](https://profiles.imperial.ac.uk/e.viegas11){:target="_blank"}
 </div>
 
 <div class="col-1-of-2 text-center" markdown="1">
 <span class="la la-music"></span>
 ### *N*euroscience *&*<br/> *M*usic
-Chaired by [Prof Henrik Jeldtoft Jensen](https://www.ma.ic.ac.uk/~hjjens/)
+Chaired by [Prof Henrik Jeldtoft Jensen](https://www.ma.ic.ac.uk/~hjjens/){:target="_blank"}
 </div>
 
 <div class="center">
