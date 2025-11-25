@@ -9,12 +9,9 @@ menu: contact
 
 <div class="col-1-of-3" markdown=1>
 
-<!--For enquiries please contact:
+For enquiries please contact:
 
-*h.jensen @ imperial.ac.uk*<br/>
-*t.evans @ imperial.ac.uk*<br/>
-*k.christensen @ imperial.ac.uk*<br/>
--->
+*vibekenordmarkhansen @ gmail.com*
 
 Imperial College South Kensington campus is accessible on public transport
 by the Picadilly, District and Circle lines. The nearest stations are South Kensington and Gloucester Road.
