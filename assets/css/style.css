@@ -45,9 +45,11 @@ body {
   padding: 0;
 }
 
-.overlay {
+.page-hero, .overlay {
   height: calc(100% / 2.4 - 14vw);
   width: 100%;
+}
+.overlay {
   z-index: 5;
   position: absolute;
   top: 14vw;
@@ -90,7 +92,10 @@ body {
   text-align: right;
 }
 
+/* images */
 img { padding: 5px 10px; }
+footer img { max-width: 140px; }
+
 
 /* basic column layouts */
 .col-1-of-2, .col-1-of-3, .col-2-of-3 {
@@ -102,30 +107,17 @@ img { padding: 5px 10px; }
   margin-bottom: 30px;
 }
 @media screen and (max-width: 599px) {
-  .col-1-of-2, .col-1-of-3, .col-2-of-3 {
-    width: 100%;
-  }
+  .col-1-of-2, .col-1-of-3, .col-2-of-3 { width: 100%; }
 }
 @media screen and (min-width: 600px) {
-  .col-1-of-2 {
-    width: 49%;
-  }
-  .col-1-of-3 {
-    width: 32%;
-  }
-  .col-2-of-3 {
-    width: 65%;
-  }
+  .col-1-of-2 { width: 49%; }
+  .col-1-of-3 { width: 32%; }
+  .col-2-of-3 { width: 65%; }
 }
+.col-1-of-2 img, .col-1-of-3 img, .col-2-of-3 img { width: 85%; }
 
-.col-1-of-2 img, .col-1-of-3 img, .col-2-of-3 img {
-  width: 85%;
-}
 
-footer img {
-   max-width: 180px;
-}
-
+/* Openstreetmap widget */
 div.olMap {
   height: 460px;
 }
@@ -133,6 +125,7 @@ div.olMap {
   bottom: 0.5em !important;
   right: 1em !important; 
 }
+
 
 /* Mobile hide/show elements
  * ----------------------------------------------
@@ -151,7 +144,7 @@ div.olMap {
 /* Menu
  * ----------------------------------------------
 */
-header{
+header {
   z-index: 10;
   width: 100%;
   position: relative;

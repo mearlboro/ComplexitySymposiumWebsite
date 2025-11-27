@@ -4,7 +4,7 @@ title: Symposium on Complexity Science
 menu: about
 permalink: /
 subtitle: 15 May 2026 <br/> 10AM - 9PM <br/> Imperial College London, Huxley 144
-hero_video: "/assets/video/collectives.mp4"
+hero_img: "/assets/img/blossoms.jpg"
 ---
 
 

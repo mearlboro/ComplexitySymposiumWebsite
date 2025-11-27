@@ -3,34 +3,38 @@ layout: default
 ---
 
 {% if page.hero_img %}
-<div class="container" background-img="{{ page.hero_img }}">
+<div class="container page-hero">
+  <img src="{{ page.hero_img }}">
 {% elsif page.hero_video %}
-<div class="container">
-  <video autoPlay muted loop width="100%">
-    <source src="{{ page.hero_video }}" type="video/mp4" />
-  </video>
-  <div class="overlay">
+  <div class="container page-hero">
+    <video autoPlay muted loop width="100%">
+      <source src="{{ page.hero_video }}" type="video/mp4" />
+    </video>
 {% else %}
-<div class="container blue-bg white">
-  <p>&nbsp;</p>
+  <div class="container blue-bg white">
+    <p>&nbsp;</p>
 {% endif %}
+
 
 {% if page.logo_img %}
     <img src="{{ page.logo_img }}" class="center" width="40%">
 {% else %}
-<span class="page-title hide-sm hide-xs">
-<p>&nbsp;</p>
-<h1>{{ page.title }}</h1>
-<h3>{{ page.subtitle }}</h3>
-</span>
-<span class="page-title hide-xl hide-lg hide-md">
-<h3>{{ page.title }}</h3>
-</span>
+  {% if page.hero_img or page.hero_video %}
+    <div class="overlay">
+  {% endif %}
+      <span class="page-title hide-sm hide-xs">
+        <p>&nbsp;</p>
+        <h1>{{ page.title }}</h1>
+        <h3>{{ page.subtitle }}</h3>
+      </span>
+      <span class="page-title hide-xl hide-lg hide-md">
+        <h3>{{ page.title }}</h3>
+      </span>
+  {% if page.hero_img or page.hero_video %}
+    </div>
+  {% endif %} 
 {% endif %}
 
-{% if page.hero_video %}
-  </div>
-{% endif %}
 </div>
 
 <article>
