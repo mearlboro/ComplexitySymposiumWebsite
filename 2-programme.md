@@ -44,7 +44,7 @@ Chaired by [Dr Tim Evans](https://profiles.imperial.ac.uk/t.evans){:target="_bla
 | 10:00 | H144 |  *Some open questions in self-organised criticality* |  Dr Gunnar Pruessner |  Imperial College London |
 | 10:15 | H144 |  *Bound by semanticity: Universal laws governing the generalization-identification tradeoff* | Prof Geovanni Petri | North Western University |
 | 10:30 | H144 | *A short walk on networks* | Prof Renaud Lambiotte | Oxford University |
-| 10:45 | H144 | TBA |  Dr Juan Lopes |  Instituto de Fisica de Cantabria |
+| 10:45 | H144 | *Information Theory Approach to Plasma Turbulence* |  Dr Juan Lopes |  Instituto de Fisica de Cantabria |
 | 11:00 | H144 | *XY and related models in two and three dimensions* | Dr Hans Weber | Luleå University |
 
 
@@ -58,7 +58,7 @@ Chaired by [Prof Kim Christensen](https://profiles.imperial.ac.uk/k.christensen)
 | 12:00 | H144 | *Epigenetic tipping points induced by competition for chromatin-modifying enzymes* | Prof Tomas Alarcon |  Centre de Recerca Matematica |
 | 12:15 | H144 | *Phase transitions in the nucleus of cells* | Prof Mario Nicodemi |  University of Naples |
 | 12:30 | H144 | *Cancer as an evolutionary process* |  Dr Stefano Lise |  UCL | 
-| 12:45 | H144 | TBA |  Prof Andrew Brass |  University of Manchester | 
+| 12:45 | H144 | *Complexity and Integrated Care Systems* |  Prof Andrew Brass |  University of Manchester | 
 
 
 ### Session *3*: *S*ociety, *E*conomics *&* *B*iological systems
@@ -71,7 +71,7 @@ Chaired by [Dr Eduardo Viegas](https://profiles.imperial.ac.uk/e.viegas11){:targ
 | 14:30 | H144 | *Patterns through flows in cities* |  Prof Elsa Arcuede |  UCL |
 | 14:45 | H144 | *Agency in complex social systems* |  Dr Paul Expert    |  UCL |
 | 15:00 | H144 | *The whole is more than the sum of its parts* |  Dr Duccio Piovani |  UN World Food Programme |
-| 15:15 | H144 | TBA |  Dr Hayato Goto |  Toyota research |
+| 15:15 | H144 | *A study on the dynamics of private car mobility networks and accessibility poverty* |  Dr Hayato Goto |  Toyota research |
 | 15:30 | H144 | *Self-organisation of societal collapse – advice for powerful leaders* |  Prof Daniel Lawson |  Bristol University |
 
 
@@ -82,9 +82,9 @@ Chaired by [Prof Henrik Jeldtoft Jensen](https://www.ma.ic.ac.uk/~hjjens/){:targ
 |-------|------|---------|---------|-------------|
 | 16:15 | H144 | *Allometric scaling of brain activity explained by avalanche criticality* |  Prof Lucilla de Arcangelis | Universita della Campania “Luigi  Vanvitelli” |
 | 16:45 | H144 | *Synergy as a common denominator of music and the brain* | Dr Fernando Rosas |  University of Sussex |
-| 16:57 | H144 | TBA |  Dr Pedro Mediano | Imperial College London |
+| 16:57 | H144 | *The entropic brain: What complexity science can tell us about consciousness* |  Dr Pedro Mediano | Imperial College London |
 | 17:10 | H144 | *Information, individuality and evolution* |  Dr Hardik Rapal |  Imperial College London  |
-| 17:22 | H144 | TBA |  Dr Madalina Sas | Imperial College London  |
+| 17:22 | H144 | *Listening as one: from collective motion to collective experience* |  Dr Madalina Sas | Imperial College London  |
 | 17:35 | H144 | *Neural markers of shared conscious experiences in classical music improvisation* | Alberto Liardi | Imperial College London  |
 | 18:00 | C&G300 | *Between structuring improvisation and improvising musical structure* | Prof David Dolan |  Guildhall School of Music | 
 
