@@ -13,6 +13,10 @@ For enquiries please contact:
 
 *vibekenordmarkhansen @ gmail.com*
 
+To register for the symposium, please visit:
+
+[estore.imperial.ac.uk](https://estore.imperial.ac.uk/conferences-and-events/faculty-of-natural-sciences/mathematics/conference/symposium-on-complexity-science){:target="_blank"}
+
 Imperial College South Kensington campus is accessible on public transport
 by the Picadilly, District and Circle lines. The nearest stations are South Kensington and Gloucester Road.
 
