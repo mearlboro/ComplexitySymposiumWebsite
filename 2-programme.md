@@ -40,9 +40,9 @@ Chaired by [Dr Tim Evans](https://profiles.imperial.ac.uk/t.evans){:target="_bla
 
 | time  | room | title   | speaker | affiliation | 
 |-------|------|---------|---------|-------------|
-| 9:45  | H144 | *Group Entropies in Statistical Mechanics and Complexity Science* |Prof Pergiolio Tempesta | Universidad Complutense de Madrid and Instituto de Ciencias Matemáticas |
+| 9:45  | H144 | *Group Entropies in Statistical Mechanics and Complexity Science* | Prof Pergiulio Tempesta | Universidad Complutense de Madrid and Instituto de Ciencias Matemáticas |
 | 10:00 | H144 |  *Some open questions in self-organised criticality* |  Dr Gunnar Pruessner |  Imperial College London |
-| 10:15 | H144 |  *Bound by semanticity: Universal laws governing the generalization-identification tradeoff* | Prof Geovanni Petri | North Western University |
+| 10:15 | H144 |  *Bound by semanticity: Universal laws governing the generalization-identification tradeoff* | Prof Giovanni Petri | Northeastern University London |
 | 10:30 | H144 | *A short walk on networks* | Prof Renaud Lambiotte | Oxford University |
 | 10:45 | H144 | *Information Theory Approach to Plasma Turbulence* |  Dr Juan Lopes |  Instituto de Fisica de Cantabria |
 | 11:00 | H144 | *XY and related models in two and three dimensions* | Dr Hans Weber | Luleå University |
@@ -67,8 +67,8 @@ Chaired by [Dr Eduardo Viegas](https://profiles.imperial.ac.uk/e.viegas11){:targ
 | time  | room | title   | speaker | affiliation | 
 |-------|------|---------|---------|-------------|
 | 14:00 | H144 | *An introduction to socio-finance* |  Dr Jørgen Vitting Andersen |  Centre D’Economie de la Sorbonne |
-| 14:15 | H144 | *Complexity literacy: A foundation for 21st-century leadership and democracy* |  Dr Katharina Brink | Egon Zehnder, Munich |
-| 14:30 | H144 | *Patterns through flows in cities* |  Prof Elsa Arcuede |  UCL |
+| 14:15 | H144 | *Complexity literacy: A foundation for 21st-century leadership and democracy* |  Dr Katharina Brinck | Egon Zehnder, Munich |
+| 14:30 | H144 | *Patterns through flows in cities* |  Prof Elsa Arcaute |  UCL |
 | 14:45 | H144 | *Agency in complex social systems* |  Dr Paul Expert    |  UCL |
 | 15:00 | H144 | *The whole is more than the sum of its parts* |  Dr Duccio Piovani |  UN World Food Programme |
 | 15:15 | H144 | *A study on the dynamics of private car mobility networks and accessibility poverty* |  Dr Hayato Goto |  Toyota research |
@@ -83,10 +83,10 @@ Chaired by [Prof Henrik Jeldtoft Jensen](https://www.ma.ic.ac.uk/~hjjens/){:targ
 | 16:15 | H144 | *Allometric scaling of brain activity explained by avalanche criticality* |  Prof Lucilla de Arcangelis | Universita della Campania “Luigi  Vanvitelli” |
 | 16:45 | H144 | *Synergy as a common denominator of music and the brain* | Dr Fernando Rosas |  University of Sussex |
 | 16:57 | H144 | *The entropic brain: What complexity science can tell us about consciousness* |  Dr Pedro Mediano | Imperial College London |
-| 17:10 | H144 | *Information, individuality and evolution* |  Dr Hardik Rapal |  Imperial College London  |
+| 17:10 | H144 | *Information, individuality and evolution* |  Dr Hardik Rajpal |  Imperial College London  |
 | 17:22 | H144 | *Listening as one: from collective motion to collective experience* |  Dr Madalina Sas | Imperial College London  |
 | 17:35 | H144 | *Neural markers of shared conscious experiences in classical music improvisation* | Alberto Liardi | Imperial College London  |
-| 18:00 | C&G300 | *Between structuring improvisation and improvising musical structure* | Prof David Dolan |  Guildhall School of Music | 
+| 18:00 | C&G300 | *Between structuring improvisation and improvising musical structure* | Prof David Dolan |  Guildhall School of Music & Drama | 
 
 
 You may also download the programme as a [PDF file](/assets/pdf/complexity-symposium-2026-programme.pdf).
