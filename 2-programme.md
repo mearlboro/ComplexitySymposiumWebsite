@@ -81,11 +81,11 @@ Chaired by [Prof Henrik Jeldtoft Jensen](https://www.ma.ic.ac.uk/~hjjens/){:targ
 | time  | room | title   | speaker | affiliation | 
 |-------|------|---------|---------|-------------|
 | 16:15 | H144 | *Allometric scaling of brain activity explained by avalanche criticality* |  Prof Lucilla de Arcangelis | Universita della Campania “Luigi  Vanvitelli” |
-| 16:45 | H144 | *Synergy as a common denominator of music and the brain* | Dr Fernando Rosas |  University of Sussex |
-| 16:57 | H144 | *The entropic brain: What complexity science can tell us about consciousness* |  Dr Pedro Mediano | Imperial College London |
-| 17:10 | H144 | *Information, individuality and evolution* |  Dr Hardik Rajpal |  Imperial College London  |
-| 17:22 | H144 | *Listening as one: from collective motion to collective experience* |  Dr Madalina Sas | Imperial College London  |
-| 17:35 | H144 | *Neural markers of shared conscious experiences in classical music improvisation* | Alberto Liardi | Imperial College London  |
+| 16:30 | H144 | *Synergy as a common denominator of music and the brain* | Dr Fernando Rosas |  University of Sussex |
+| 16:45 | H144 | *The entropic brain: What complexity science can tell us about consciousness* |  Dr Pedro Mediano | Imperial College London |
+| 17:00 | H144 | *Information, individuality and evolution* |  Dr Hardik Rajpal |  Imperial College London  |
+| 17:15 | H144 | *Listening as one: from collective motion to collective experience* |  Dr Madalina Sas | Imperial College London  |
+| 17:30 | H144 | *Neural markers of shared conscious experiences in classical music improvisation* | Alberto Liardi | Imperial College London  |
 | 18:00 | C&G300 | *Between structuring improvisation and improvising musical structure* | Prof David Dolan |  Guildhall School of Music & Drama | 
 
 
