@@ -24,7 +24,7 @@ Followed by a birthday reception in the Physics Common Room.
 
 <div class="container blue-bg white text-center">
 <div class="wrapper">
-<p>To register for the symposium, please follow this link:</p>
+<p>To register for the symposium, please follow this link before 1st of May 2026:</p>
 <h3 class="black-bg button">
 <a class="white" href="https://estore.imperial.ac.uk/conferences-and-events/faculty-of-natural-sciences/mathematics/conference/symposium-on-complexity-science" target="_blank">&nbsp;&nbsp;REGISTRATION&nbsp;&nbsp;</a>
 </h3>

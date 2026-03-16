@@ -13,7 +13,7 @@ For enquiries please contact:
 
 *vibekenordmarkhansen @ gmail.com*
 
-To register for the symposium, please visit:
+To register for the symposium, please follow this link before 1st of May 2026:
 
 [estore.imperial.ac.uk](https://estore.imperial.ac.uk/conferences-and-events/faculty-of-natural-sciences/mathematics/conference/symposium-on-complexity-science){:target="_blank"}
 
