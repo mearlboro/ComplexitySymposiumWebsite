@@ -14,15 +14,16 @@ The *programme at a glance* is outlined below. Scroll down or click the session 
 |-------|------|---------|
 | 9:30-9:45  | H144 | Welcome |
 | 9:45-11:15  | H144 | [Session 1: Networks & Basic Formalism](#session-1-networks--basic-formalism) | 
-| 11:15-11:45 | H144 | Coffee & tea break |
+| 11:15-11:45 | HCR | Coffee & tea break |
 | 11:45-13:00 | H144 | [Session 2: Medical applications](#session-2-medical-applications) |
-| 13:00-14:00 | TBA | Lunch break |
-| 14:00-15:45 | H144 | [Session 3: Society, Economics & Biological Systems](#session-3-society-economics--biological-systems) |
-| 15:15-16:15 | H144 | Coffee & tea break |
+| 13:00-14:00 | HCR | Lunch break |
+| 14:15-15:00 | H144 | [Session 3: Society, Economics & Biological Systems](#session-3-society-economics--biological-systems) |
+| 15:15-16:15 | HCR | Coffee & tea break |
 | 16:15-18:30 | H144 + C&G300 | [Session 4: Neuroscience & Music](#session-4-neuroscience--music) |
 | 19:00-21:30 | B801 | Birthday Reception |
 
- **H144**: Huxley building, room 144.  <br/>
+ **H144**: Huxley building, room 144, floor 1.  <br/>
+ **HCR**: Huxley building, Math common room, floor 5.  <br/>
  **C&G300**: City & Guilds building, room 300. <br/>
  **B801**: Blackett building, 8th floor Physics common room  <br/>
 </div>
@@ -64,15 +65,17 @@ Chaired by [Prof Kim Christensen](https://profiles.imperial.ac.uk/k.christensen)
 ### Session *3*: *S*ociety, *E*conomics *&* *B*iological systems
 Chaired by [Dr Eduardo Viegas](https://profiles.imperial.ac.uk/e.viegas11){:target="_blank"}
 
+**Please note change of timing: 15 min later than original programme**
+
 | time  | room | title   | speaker | affiliation | 
 |-------|------|---------|---------|-------------|
-| 14:00 | H144 | *An introduction to socio-finance* |  Dr Jørgen Vitting Andersen |  Centre D’Economie de la Sorbonne |
-| 14:15 | H144 | *Complexity literacy: A foundation for 21st-century leadership and democracy* |  Dr Katharina Brinck | Egon Zehnder, Munich |
-| 14:30 | H144 | *Patterns through flows in cities* |  Prof Elsa Arcaute |  UCL |
-| 14:45 | H144 | *Agency in complex social systems* |  Dr Paul Expert    |  UCL |
-| 15:00 | H144 | *The whole is more than the sum of its parts* |  Dr Duccio Piovani |  UN World Food Programme |
-| 15:15 | H144 | *A study on the dynamics of private car mobility networks and accessibility poverty* |  Dr Hayato Goto |  Toyota research |
-| 15:30 | H144 | *Self-organisation of societal collapse – advice for powerful leaders* |  Prof Daniel Lawson |  Bristol University |
+| 14:15 | H144 | *An introduction to socio-finance* |  Dr Jørgen Vitting Andersen |  Centre D’Economie de la Sorbonne |
+| 14:30 | H144 | *Complexity literacy: A foundation for 21st-century leadership and democracy* |  Dr Katharina Brinck | Egon Zehnder, Munich |
+| 14:45 | H144 | *Patterns through flows in cities* |  Prof Elsa Arcaute |  UCL |
+| 15:00 | H144 | *Agency in complex social systems* |  Dr Paul Expert    |  UCL |
+| 15:15 | H144 | *The whole is more than the sum of its parts* |  Dr Duccio Piovani |  UN World Food Programme |
+| 15:30 | H144 | *A study on the dynamics of private car mobility networks and accessibility poverty* |  Dr Hayato Goto |  Toyota research |
+| 15:45 | H144 | *Self-organisation of societal collapse – advice for powerful leaders* |  Prof Daniel Lawson |  Bristol University |
 
 
 ### Session *4*: *N*euroscience & *M*usic
